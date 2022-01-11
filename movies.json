@@ -1,0 +1,27 @@
+[
+    {
+    "id": 1,
+    "name": "Coco",
+    "image":"https://downloadhdwallpapers.in/wp-content/uploads/2018/02/Goosebumps-Movie.jpg" ,
+    "rating": 8
+    
+    },
+    
+    
+    {
+    
+    "id": 2,
+    "name": "1917 ",
+    "image": "https://picfiles.alphacoders.com/336/thumb-1920-336319.jpg" ,
+    "rating": 6.5
+        
+    },
+    {
+        
+    "id": 3,
+    "name": "777 Looool ",
+    "image": "https://buzz.tt/media/posters/1981/backdrops_1_1500.jpg" ,
+    "rating": 8
+        
+    }
+]

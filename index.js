@@ -11,6 +11,38 @@
  *
  */
 
+const movie1 = {
+id: 1,
+name: "Coco",
+image: image="https://downloadhdwallpapers.in/wp-content/uploads/2018/02/Goosebumps-Movie.jpg" ,
+rating: 8,
+
+};
+
+
+const movie2 = {
+
+id: 2,
+name: "1917 ",
+image: "https://picfiles.alphacoders.com/336/thumb-1920-336319.jpg" ,
+rating: 6.5,
+    
+};
+const movie3 = {
+    
+id: 3,
+name: "777 Looool ",
+image: "https://buzz.tt/media/posters/1981/backdrops_1_1500.jpg" ,
+rating: 8,
+    
+};
+
+console.log(movie1);
+console.log(movie2);
+console.log(movie3);
+
+
+
 // add the movies variables here ....
 
 /** Task 2:
@@ -29,6 +61,34 @@
  *    },
  * ]
  */
+
+const movies= [
+    {
+        id: 1,
+        name: "Coco",
+        image: image="https://downloadhdwallpapers.in/wp-content/uploads/2018/02/Goosebumps-Movie.jpg" ,
+        rating: 8,
+        
+        },
+        
+        
+        {
+        
+        id: 2,
+        name: "1917 ",
+        image: "https://picfiles.alphacoders.com/336/thumb-1920-336319.jpg" ,
+        rating: 6.5,
+            
+        },
+        {
+            
+        id: 3,
+        name: "777 Looool ",
+        image: "https://buzz.tt/media/posters/1981/backdrops_1_1500.jpg" ,
+        rating: 8,
+            
+        }
+]
 
 /** TASK 3:
  * Create a new file call it `movies.json`
